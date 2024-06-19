@@ -1,0 +1,229 @@
+
+
+@media (max-width:1399px) {
+    footer {
+        background-size: 60%;
+    }
+    .f_contact_wrap p {
+        font-size: 18px;
+    }
+    .nav-link {
+        margin-left: 10px;
+    }
+    .header {
+        background-size: 72%;
+    }
+    .service_box p {
+        padding: 0;
+    }
+    .process_single_box {
+        min-height: 403px;
+    }
+}
+ /*********** 1399 e ***********/
+ @media (max-width: 1199px){
+    footer {
+        background-size: 70%;
+    }
+    .process_single_box {
+        min-height: 460px;
+    }
+ }
+
+ /*********** 1199 e ***********/
+@media (max-width:1024px) {
+    
+}
+ /*********** 1024 e ***********/
+@media (max-width:991px) {
+
+    .navbar-nav {
+        background: #0961b1;
+        align-items: start;
+        padding: 15px 20px;
+    }
+    .nav-item {
+        width: 100%;
+        border-bottom: 1px solid #034c8f66;
+        padding: 5px 0;
+    }
+    .btn_nav {
+        display: block;
+        margin: auto;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .hero_content_section {
+        text-align: center;
+        margin-top: 20px;
+        flex-direction: column-reverse;
+    }
+    .hero_img {
+        margin-top: 66px;
+    }
+    .call_height {
+        flex-direction: column-reverse;
+    }
+    .live_call_content {
+        text-align: center;
+    }
+    .live_call_content p {
+        margin-bottom: 70px;
+    }
+    .get {
+        background-image: none;
+    }
+    .process_single_box {
+        margin-bottom: 100px;
+    }
+    .g_btn {
+        margin-top: 10px;
+    }
+    .process {
+        padding-top: 30px;
+    }
+    .indus_single_box {
+        margin-bottom: 25px;
+    }
+    .industries_title h1 {
+        padding-bottom: 35px;
+        font-size: 34px;
+    }
+    .industries {
+        background-image: none;
+        padding-bottom: 50px;
+    }
+    .question h1 {
+        font-size: 35px;
+    }
+    footer {
+        background-size: 72%;
+    }
+    footer {
+        background-image: none;
+    }
+    .f_contact_wrap p {
+        color: #242424;
+    }
+    .btn_footer {
+        background: #0961b1;
+    }
+    .copy p {
+        text-align: center;
+    }
+    .f_logo {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .privacy p {
+        color: #242424;
+        text-align: center;
+    }
+    .privacy {
+        margin-top: 18px;
+    }
+    .header {
+        background-image: none;
+    }
+    .calls {
+        background-image: none;
+    }
+}
+ /*********** 991 e ***********/
+@media (max-width:767px) {
+    .service_header_wrap {
+        margin-bottom: 25px;
+    }
+    .get_title h1 {
+        font-size: 40px;
+    }
+    .btn_footer {
+        font-size: 15px;
+        padding: 12px 16px;
+    }
+}
+ /*********** 767 e ***********/
+@media (max-width:575px) {
+    .btn_get {
+        padding: 12px 20px;
+        font-size: 18px;
+    }
+    .live_call_content h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .s_box_img {
+        width: 90px;
+        margin-right: 25px;
+    }
+    .get_details p {
+        padding-right: 0;
+    }
+    .process_title h1 {
+        font-size: 48px;
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+    .industries_img {
+        text-align: center;
+    }
+    .indus_single_box h3 {
+        text-align: center;
+    }
+    .get_btn {
+        padding: 12px 20px;
+        font-size: 18px;
+    }
+    .footer_content h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    .footer_content p {
+        text-align: center;
+    }
+    .f_contact_wrap p {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .f_contact_wrap {
+        display: inherit;
+        text-align: center;
+    }
+    .copy p {
+        color: #409830;
+    }
+    .q_title h3 {
+        font-weight: 500;
+        font-size: 18px;
+    }
+    .service_box {
+        padding: 40px 30px 60px;
+        min-height: auto;
+    }
+    .process_single_box {
+        min-height: 410px;
+    }
+    .hero_content_section h1 {
+        font-size: 45px;
+    }
+    .btn_nav {
+        padding: 12px 15px;
+    }
+}
+ /*********** 575 e ***********/
+@media (max-width:415px) {
+    
+}
+ /*********** 415 e ***********/
+@media (max-width:375px) {
+    .navbar-brand {
+        margin: 0;
+        width: 65%;
+    }
+    .service_box {
+        padding: 40px 40px 60px;
+    }
+    .s_box_content h3 {
+        font-size: 22px;
+    }
+}
